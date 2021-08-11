@@ -9,6 +9,7 @@ public class ThisAndSuper extends Constructor {
 	public ThisAndSuper() {
 		this("reyehy");
 		System.out.println("default");
+		System.out.println("old");
 	}
 		public static void main(String[] args) {
 ThisAndSuper g=new ThisAndSuper();			
